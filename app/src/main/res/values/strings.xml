@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application:</string>
+    <string name="profile">Profile</string>
+    <string name="name">Name: </string>
+    <string name="title">Title: </string>
+    <string name="mobile">Mobile: </string>
+    <string name="user_name">Username: </string>
+    <string name="about">About: </string>
+    <string name="about_description">I am a software developer From Kenya Currently a student at the East African University
+        Pursuing a degree in Computer Science, im good in kotlin for android development and also laravel framework for full stack web
+        development. i also explore things concerning cyber security currently at hackerone and intigriti bug bounty programs
+        I also do some machine learning stuff and im currently at kaggle workspace.
+    </string>
+    <string name="what_i_can_do_for_the_company"> What i can do for the company:</string>
+    <string name="what_i_can_do_for_the_company_description"> If given a chance to work for the company i would
+        make sure the company meets its goals as far as software development is concerned by making
+        sure i develop industry standard software products with hardened security features for the
+        safety of the users</string>
+    <string name="social_media_links">Social Media Links:</string>
+    <string name="instagram_link">Instagram Link</string>
+</resources>
